@@ -12,26 +12,14 @@ The goal is to classify images into two categories:
 
 ## 🧠 Model Details
 
-* Model: Convolutional Neural Network (CNN) / ResNet18 *(edit based on what you used)*
-* Framework:  TensorFlow *(edit)*
+* Model: Convolutional Neural Network (CNN)
+* Framework:  TensorFlow 
 * Input Size: 224 × 224 images
 * Output: Binary classification (Normal vs Pneumonia)
 
 ---
 
-## 📊 Results
 
-* Accuracy: XX% *(replace with your result)*
-* Loss: XX *(optional)*
-
----
-
-## 📂 Dataset
-
-* Dataset used: Chest X-ray dataset
-  *(Add source if you have one, e.g., Kaggle)*
-
----
 
 ## 🚀 How to Run
 
@@ -55,8 +43,5 @@ It will be converted into a full pipeline and deployed as a web application in t
 * Improve accuracy
 * Add model explainability (Grad-CAM)
 
----
 
-## 👨‍💻 Author
 
-Jibachh Yadav
